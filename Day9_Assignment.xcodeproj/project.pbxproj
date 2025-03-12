@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		9F89165F2D818B6500C42EB5 /* Day9_Assignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Day9_Assignment.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9F8916B52D819E6200C42EB5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +33,7 @@
 		9F8916562D818B6500C42EB5 = {
 			isa = PBXGroup;
 			children = (
+				9F8916B52D819E6200C42EB5 /* Info.plist */,
 				9F8916612D818B6500C42EB5 /* Day9_Assignment */,
 				9F8916602D818B6500C42EB5 /* Products */,
 			);
@@ -255,6 +257,7 @@
 				DEVELOPMENT_TEAM = A829TD2MHJ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "/Users/academy/Desktop/Dev Training IOS/Day9_Assignment/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -284,6 +287,7 @@
 				DEVELOPMENT_TEAM = A829TD2MHJ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "/Users/academy/Desktop/Dev Training IOS/Day9_Assignment/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
